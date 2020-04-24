@@ -1,0 +1,98 @@
+1. Containerization with Kubernetes
+What is containerization?
+5m 10s
+Save What is containerization?
+What is Kubernetes?
+4m 25s
+Save What is Kubernetes?
+Kubernetes features
+4m 49s
+Save Kubernetes features
+Other implementations
+4m 46s
+Save Other implementations
+Chapter Quiz
+6 questions
+
+2. Kubernetes: The Terminology
+ 
+3. Kubernetes 101: Hello World
+Getting up and running: Mac install
+3m 41s
+Save Getting up and running: Mac install
+Getting up and running: Windows install
+7m 56s
+Save Getting up and running: Windows install
+Running a first Hello World application
+5m 36s
+Save Running a first Hello World application
+Breaking down the Hello World application
+4m 10s
+Save Breaking down the Hello World application
+Scaling the Hello World application
+2m 35s
+Save Scaling the Hello World application
+Chapter Quiz
+7 questions
+
+4. Making it Production Ready
+Add, change, and delete labels
+3m 25s
+Save Add, change, and delete labels
+Working with labels
+7m 35s
+Save Working with labels
+Application health checks
+6m 24s
+Save Application health checks
+Handling application upgrades
+5m 5s
+Save Handling application upgrades
+Basic troubleshooting techniques
+4m 43s
+Save Basic troubleshooting techniques
+Chapter Quiz
+6 questions
+
+5. Kubernetes 201
+Running a more complicated example
+3m 6s
+Save Running a more complicated example
+The Kubernetes dashboard
+5m 11s
+Save The Kubernetes dashboard
+Dealing with configuration data
+4m 22s
+Save Dealing with configuration data
+Dealing with application secrets
+2m 24s
+Save Dealing with application secrets
+Running jobs in Kubernetes
+4m 36s
+Save Running jobs in Kubernetes
+Running stateful set applications
+6m 23s
+Save Running stateful set applications
+Chapter Quiz
+7 questions
+
+6. Advanced Topics
+Production Kubernetes deployments
+3m 40s
+Save Production Kubernetes deployments
+Detailed look at namespaces
+3m 43s
+Save Detailed look at namespaces
+Monitoring and logging
+4m 25s
+Save Monitoring and logging
+Authentication and authorization
+6m 12s
+Save Authentication and authorization
+Chapter Quiz
+5 questions
+
+Conclusion
+Next steps
+2m 16s
+Save Next steps
